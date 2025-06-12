@@ -265,7 +265,8 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 - Use virtual environment
 
 ## Live Demo
--https://citizen-ai.onrender.com/
+- https://citizen-ai.onrender.com/
+- "Render Free Tier may show a short 502 during startup. This is expected behavior and resolves automatically."
 
 ## License
 
